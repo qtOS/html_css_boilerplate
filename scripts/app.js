@@ -2,6 +2,9 @@
 
 window.onload = function(){
     statusReport('hey hey hey');
+
+    var username = prompt('what is your name?');
+
 }
 
 
